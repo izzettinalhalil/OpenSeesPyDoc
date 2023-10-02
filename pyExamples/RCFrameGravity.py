@@ -95,7 +95,7 @@ element(eleType, 2, 2, 4, 1, 1)
 # Define beam elment
 # -----------------------------
 
-# Geometry of column elements
+# Geometry of beam elements
 #                tag
 geomTransf('Linear', 2)
 
